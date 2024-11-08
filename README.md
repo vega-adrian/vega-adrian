@@ -2,6 +2,8 @@
 
 Welcome to my personal GitHub page!
 
+Local change made in VS Code.
+
 I am a Data Scientist, PhD, with a background in Telecommunications Engineer (BSc, MSc and PhD) and with a Master in Big Data Analytics and Data Science.
 
 - 🔭 I’m currently working as a Senior Data Science in Mapfre.
