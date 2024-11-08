@@ -5,7 +5,7 @@ Welcome to my personal GitHub page!
 I am a Data Scientist, PhD, with a background in Telecommunications Engineer (BSc, MSc and PhD) and with a Master in Big Data Analytics and Data Science.
 
 - 🔭 I’m currently working as a Senior Data Science in Mapfre.
-- 👨🏻‍🏫 I hold an asaociate professor in two universities: Carlos III of Madrid and Universidad Europea, where I teach Neural Networks and Statistics and Probability.
+- 👨🏻‍🏫 I hold an associate professor position in two universities: Carlos III of Madrid and Universidad Europea, where I teach Neural Networks, Statistics and Probability and Cloud.
 - 🌱 I’m currently learning all about MLOps and how to design fully operative ML platforms.
 
 ## Tools
